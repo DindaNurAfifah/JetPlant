@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetPlant</string>
+    <string name="required_point">%d $</string>
+    <string name="plant">Plant</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+</resources>
